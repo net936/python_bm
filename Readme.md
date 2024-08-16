@@ -12,9 +12,6 @@
 演示地址：[https://bm.gitapp.cn](https://bm.gitapp.cn)
 
 
-## 源码下载
-
-https://github.com/geeeeeeeek/python_bm
 
 
 ## 主要功能
